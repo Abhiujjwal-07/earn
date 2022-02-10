@@ -643,8 +643,7 @@ body {
     margin-top: 20px;
     background: none;
     border: none;
-    border: 2px solid gainsboro;
-    border-radius: 20px;
+    border-bottom: 2px solid rgb(125, 125, 125);
     font-size: 20px;
     padding-left: 20px;
 }
@@ -655,8 +654,7 @@ body {
     margin-top: 20px;
     background: none;
     border: none;
-    border: 2px solid gainsboro;
-    border-radius: 20px;
+    border-bottom: 2px solid rgb(125, 125, 125);
     font-size: 20px;
     padding-left: 20px;
 }
@@ -667,8 +665,7 @@ body {
     margin-top: 20px;
     background: none;
     border: none;
-    border: 2px solid gainsboro;
-    border-radius: 20px;
+    border-bottom: 2px solid rgb(125, 125, 125);
     font-size: 20px;
     padding-left: 20px;
 }
