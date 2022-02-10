@@ -393,22 +393,22 @@ body {
 
 .road .m1 .a1 {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 171px;
+    height: 124px;
     background-color: white;
     border-radius: 30px;
-    margin-left: 290px;
-    margin-top: 340px;
+    margin-left: 281px;
+    margin-top: 374px;
 }
 
 .road .m1 .a1 .a2 {
     position: absolute;
-    width: 70px;
+    width: 71px;
     height: 70px;
     background-color: rgb(63, 147, 220);
-    border-radius: 30px;
-    margin-left: 43px;
-    margin-top: 40px;
+    border-radius: 50px;
+    margin-left: 48px;
+    margin-top: 25px;
     border: 2px solid rgb(54, 126, 189);
 }
 
