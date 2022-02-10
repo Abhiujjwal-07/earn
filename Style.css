@@ -95,11 +95,11 @@ body {
 
 .left .heading1 .email button {
     color: white;
-    width: 10%;
-    height: 29px;
-    background-color: rgba(123, 123, 123, 0.66);
-    border-radius: 50%;
-    border-color: rgba(82, 82, 82, 0.66);
+    width: 58px;
+    height: 40px;
+    background-color: rgb(56, 176, 250);
+    border-radius: 50px;
+    border: 2px solid rgb(56, 176, 250);
 }
 
 .right {
