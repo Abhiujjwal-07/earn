@@ -190,12 +190,12 @@ body {
     width: 365px;
     border-top: 3px solid gray;
     border-right: solid gray;
+    border-top-right-radius: 30px;
 }
 
 .m1 .s2 {
     background-color: rgba(255, 192, 203, 0);
     width: 1100px;
-    border-bottom: 3px solid gray;
 }
 
 .m2 {
@@ -212,9 +212,13 @@ body {
 .m2 .s4 {
     width: 1100px;
     border-right: 3px solid gray;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
     color: white;
     display: flex;
     flex-direction: row;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 
 .m3 {
@@ -234,9 +238,9 @@ body {
 .m3 .s6 {
     /* background-color: red; */
     width: 1100px;
-    border-top: 3px solid gray;
     border-left: 3px solid gray;
     border-bottom: 3px solid gray;
+    border-bottom-left-radius: 30px;
 }
 
 .m4 {
